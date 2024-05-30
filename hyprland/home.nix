@@ -43,6 +43,8 @@
     pkgs.pavucontrol
     pkgs.catppuccin-gtk
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" "DroidSansMono" "JetBrainsMono"]; })
+    pkgs.go
+    pkgs.odin
     # # Adds the 'hello' command to your environment. It prints a friendly
     # # "Hello, world!" when run.
     # pkgs.hello

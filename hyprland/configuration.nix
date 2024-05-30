@@ -123,8 +123,6 @@
     zig
     unzip
     python3
-    go
-    rustup
     nodejs_22
     clang
   ];
