@@ -27,7 +27,6 @@
   home.packages = [
     pkgs.htop
     pkgs.neofetch
-    pkgs.wezterm
     pkgs.eza
     pkgs.zoxide
     pkgs.obsidian
