@@ -42,6 +42,7 @@
     pkgs.xfce.thunar
     pkgs.pavucontrol
     pkgs.catppuccin-gtk
+    pkgs.google-chrome
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" "DroidSansMono" "JetBrainsMono"]; })
     pkgs.go
     pkgs.odin
